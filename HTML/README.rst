@@ -18,6 +18,5 @@ session
 ===============================================================================
 
 
-_`Types of CSS (Cascading Style Sheet) <https://www.geeksforgeeks.org/types-of-css-cascading-style-sheet/>`_
-
+`Types of CSS (Cascading Style Sheet) <https://www.geeksforgeeks.org/types-of-css-cascading-style-sheet/>`_
 .. code:: c++
