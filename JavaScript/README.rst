@@ -2,8 +2,6 @@
    :local:
    :depth: 3
 
-STL
-===============================================================================
 
 factorial of a number
 ===============================================================================
@@ -22,4 +20,25 @@ factorial of a number
     let n = 4;
     answer = factorial(n)
     console.log("The factorial of " + n + " is " + answer);
+
+
+JavaScript Function Apply and call
+===============================================================================
+
+.. code:: javascript
+
+How to get the entire HTML document as a string in JavaScript ?
+===============================================================================
+
+.. code:: javascript
+
+set time and date
+===============================================================================
+
+.. code:: javascript
+
+undefined and not defined in javascript
+===============================================================================
+
+.. code:: javascript
 
