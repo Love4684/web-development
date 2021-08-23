@@ -42,3 +42,4 @@ undefined and not defined in javascript
 
 .. code:: javascript
 
+hello
